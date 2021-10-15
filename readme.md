@@ -62,8 +62,12 @@ const ramdev = {
 You can find and get touch with me on these accounts!
 
 <div align="center">
- [![]<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github logo" width="100">](https://github.com/ramdevcm) 
- [![]<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="instagram logo" width="100">](https://www.instagram.com/ramdev.__/) 
+    <a href="https://github.com/ramdevcm">
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github logo" width="100" />
+    </a>
+    <a href="https://www.instagram.com/ramdev.__/">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="instagram logo" width="100">
+    </a>
  [![]<img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="twitter logo" width="100">](https://twitter.com/ramdevcm) 
  [![]<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab logo" width="100">](https://gitlab.com/ramdevcm) 
  [![]<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin logo" width="100">](https://linkedin.com/ramdevcm) 
