@@ -10,7 +10,8 @@ I'm Ramdev.
 
 ![Ramdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&include_all_commits=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=ramdevcm&theme=light" />
+![Ramdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&theme=radical)
+
 
 
   
