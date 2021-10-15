@@ -21,14 +21,16 @@ const ramdev = {
             native: ["Android Development", "IOS Development"]
         },
         devOps: ["AWS", "Docker🐳", "K8's", "Terraform", "Ansible"...],
-        databases: ["mongoBD", "MySql"]
+        databases: ["mongoDB", "MySql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: ["Site Reliability Engineering", "Chaos Engineering" ]
+    currentFocus: ["Site Reliability Engineering", "Chaos Engineering" ],
     motto: "Do Epic Shit!"
 };
 ```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-891-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875711%20lines%20of%20code-blue)
 
 ## &#x1f4c8; GitHub Stats
 
