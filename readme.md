@@ -10,11 +10,11 @@ I'm Ramdev.
 
 <div>
 
-![Ramdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical)
+![Ramdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical&ccard_width=250)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical)
 
-</div>
+
 
 
 
