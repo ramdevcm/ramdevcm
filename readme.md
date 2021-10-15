@@ -8,36 +8,16 @@ I'm Ramdev.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical" alt="Martin's GitHub Stats" />
-</a>
-
-
-<img align="center" src="" />
-
-<img align="center" src="" />
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ramdevcm/ramdevcm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical&ccard_width=250" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical&ccard_width=250" />
 </a>
 <a href="https://github.com/ramdevcm/ramdevcm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical" />
 </a>
 
 
-
-
-
-
-  
 ### Languages and Tools 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
