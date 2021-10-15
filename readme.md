@@ -8,6 +8,28 @@ I'm Ramdev.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
+```javascript
+const ramdev = {
+    pronouns: "He" | "Him",
+    code: [ "Python", "Java", "C", "C++", "PHP", "Javascript"],
+    askMeAbout: ["web dev", "tech", "app dev", "reliability" ],
+    technologies: {
+        frontEnd: {
+            js: ["React", "SCSS"],
+        },
+        mobileApp: {
+            native: ["Android Development", "IOS Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "K8's", "Terraform", "Ansible"...],
+        databases: ["mongoBD", "MySql"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: ["Site Reliability Engineering", "Chaos Engineering" ]
+    motto: "Do Epic Shit!"
+};
+```
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ramdevcm/ramdevcm">
