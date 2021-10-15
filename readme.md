@@ -61,14 +61,10 @@ const ramdev = {
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/ramdevcm) 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/ramdev.__/) 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/ramdevcm) 
+| [<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github logo" width="34">](https://github.com/ramdevcm) 
+| [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="instagram logo" width="24">](https://www.instagram.com/ramdev.__/) 
+| [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="twitter logo" width="34">](https://twitter.com/ramdevcm) 
+| [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab logo" width="24">](https://gitlab.com/ramdevcm) 
+| [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin logo" width="24">](https://linkedin.com/ramdevcm) 
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/ramdevcm) 
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://linkedin.com/ramdevcm) 
-
-
-|---|---|---|---|---|---|---|---|
 
