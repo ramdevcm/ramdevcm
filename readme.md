@@ -8,11 +8,10 @@ I'm Ramdev.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-<div>
 
-![Ramdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical&ccard_width=250)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical&ccard_width=250" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical" />
 
 
 
