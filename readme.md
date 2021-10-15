@@ -8,9 +8,11 @@ I'm Ramdev.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-![Ramdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&include_all_commits=true)
 
 ![Ramdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm)]
+
 
 
 
