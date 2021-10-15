@@ -12,7 +12,7 @@ I'm Ramdev.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&layout=compact&theme=radical&card_width=250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical" alt="Martin's GitHub Stats" />
