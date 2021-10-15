@@ -6,3 +6,6 @@ I'm Ramdev.
 <p align='center'>For enquiries, reach out @ ramdevcm@gmail.com or over on <a href="https://twitter.com/ramdevcm">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+
+![Ramdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&include_all_commits=true)
