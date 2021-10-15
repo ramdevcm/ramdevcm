@@ -8,13 +8,13 @@ I'm Ramdev.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-<p>
+<div>
 
 ![Ramdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&layout=compact&theme=radical)
 
-</p>
+</div>
 
 
 
@@ -22,15 +22,9 @@ I'm Ramdev.
 ### Languages and Tools 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
-
 <code><img height="30" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/kafka-282292.png"></code>
-
-
 <code><img height="30" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png"></code>
-
 <code><img height="30" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 
 
