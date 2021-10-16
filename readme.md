@@ -86,6 +86,8 @@ You can find and get touch with me on these accounts!
     </a>
 </div>
 
+<p align="center">
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ramdevcm)
+</p>
 
 
