@@ -32,7 +32,7 @@ const ramdev = {
 ```
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ramdevcm)
 
-![Lines of code]![](https://tokei.rs/b1/github/ramdevcm/ramdevcm)
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -43,7 +43,7 @@ const ramdev = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=radical" alt="Ramdev's GitHub Stats" />
 </a>
 <a href="https://github.com/ramdevcm/ramdevcm">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramdevcm&theme=dark)" alt="Ramdev's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramdevcm&theme=dark" alt="Ramdev's GitHub Stats" />
 </a>
 
 
