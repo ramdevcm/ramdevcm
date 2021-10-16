@@ -32,7 +32,7 @@ const ramdev = {
 ```
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ramdevcm)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875711%20lines%20of%20code-blue)
+![Lines of code]![](https://tokei.rs/b1/github/ramdevcm/ramdevcm)
 
 ## &#x1f4c8; GitHub Stats
 
