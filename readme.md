@@ -5,7 +5,7 @@
 <p align='center'>
 I'm Ramdev.
 </p>
-<p align='center'>For enquiries, reach out @ ramdevcm@gmail.com or over on <a href="https://twitter.com/ramdevcm">Twitter</a>.</p>
+<p align='center'>For enquiries, reach out @ ramdevcm@gmail.com or over on <a href="https://linkedin.com/ramdevcm">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
@@ -86,8 +86,8 @@ You can find and get touch with me on these accounts!
     </a>
 </div>
 
-<p align="center">
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ramdevcm)
-</p>
+<a align="center" href="https://github.com/ramdevcm">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ramdevcm" />
+</a>
 
 
