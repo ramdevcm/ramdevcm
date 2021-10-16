@@ -40,7 +40,7 @@ const ramdev = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdevcm&theme=radical" />
 </a>
 <a href="https://github.com/ramdevcm/ramdevcm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justii543&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=radical" alt="Ramdev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramdevcm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=radical" alt="Ramdev's GitHub Stats" />
 </a>
 <a href="https://github.com/ramdevcm/ramdevcm">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramdevcm&theme=dark" alt="Ramdev's GitHub Stats" />
