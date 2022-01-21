@@ -81,7 +81,7 @@ You can find and get touch with me on these accounts!
     <a href="https://gitlab.com/ramdevcm">
         <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab logo" width="100">
     </a> 
-    <a href="https://linkedin.com/ramdevcm">
+    <a href="https://www.linkedin.com/in/ramdevcm/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin logo" width="100">
     </a>
 </div>
