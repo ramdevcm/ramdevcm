@@ -9,6 +9,10 @@ I'm Ramdev.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jddemonteverde/jddemonteverde/output/snake.svg" alt="GitHub contribution snake animation" />
+</div>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ramdevcm/ramdevcm">
