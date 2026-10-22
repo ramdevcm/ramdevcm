@@ -9,7 +9,7 @@ I'm Ramdev.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-![GitHub contribution snake](https://raw.githubusercontent.com/ramdevcm/ramdevcm/main/output/snake.svg)
+![GitHub contribution snake](https://raw.githubusercontent.com/ramdevcm/ramdevcm/output/snake.svg)
 
 
 ## &#x1f4c8; GitHub Stats
